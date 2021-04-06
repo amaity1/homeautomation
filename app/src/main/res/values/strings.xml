@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Home Automation</string>
+    <string name="screen1Text">Select Gesture</string>
+    <string-array name="spinnerItems">
+        <item>Select One</item>
+        <item>Fan On</item>
+        <item>Fan Off</item>
+        <item>Decrease Fan Speed</item>
+        <item>Increase Fan Speed</item>
+        <item>Light Off</item>
+        <item>Light On</item>
+        <item>Set Thermostat</item>
+        <item>Digit 0</item>
+        <item>Digit 1</item>
+        <item>Digit 2</item>
+        <item>Digit 3</item>
+        <item>Digit 4</item>
+        <item>Digit 5</item>
+        <item>Digit 6</item>
+        <item>Digit 7</item>
+        <item>Digit 8</item>
+        <item>Digit 9</item>
+    </string-array>
+    <string name="button1Screen2">Back</string>
+    <string name="button2Screen2">Replay</string>
+    <string name="button3Screen2">Record</string>
+</resources>
