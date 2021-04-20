@@ -15,7 +15,6 @@ import okhttp3.*
 
 class MainActivity2 : AppCompatActivity() {
     private val REQUEST_VIDEO_CAPTURE = 1
-    var path = ""
     private lateinit var  pBar: ProgressBar
     var switch: String ?= null
     private lateinit var videoName: String
